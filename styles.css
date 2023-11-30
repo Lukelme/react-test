@@ -1,0 +1,30 @@
+/* src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #282c34;
+    padding: 15px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav li {
+    margin: 0 15px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+  
+ nav a:hover {
+    border-bottom: 2px solid white;
+    padding-bottom: 3px;
+  }
+  
